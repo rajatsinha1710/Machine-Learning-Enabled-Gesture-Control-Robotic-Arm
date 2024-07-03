@@ -1,5 +1,5 @@
 
-# Gesture Controlled Robotic Arm
+# Machine Learning Enabled Gesture Control Robotic Arm
 
 In this project, we focused on closely replicating the human hand gestures and were able to replicate each finger movement independently which gave us freedom to make any kind of gesture by controlling each finger individually. Some of the key insights from the thesis are as follows:
 1. Leveraged the Mediapipe framework, renowned for its robustness in landmark detection, to meticulously identify key landmarks on the hand.
