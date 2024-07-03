@@ -24,3 +24,7 @@ By meticulously connecting the motors to the Arduino and fine-tuning their respo
 
 3) connect the motor to the Arduino pins as specified in the ArduimoSerial file
 
+## Demo
+![1](https://github.com/rajatsinha1710/Gesture-Controlled-Robotics-Arm/assets/82875391/f824f677-799b-4ed6-878e-77c3fb9ae407)
+![2](https://github.com/rajatsinha1710/Gesture-Controlled-Robotics-Arm/assets/82875391/fdba019f-0918-44db-8c62-9f45c13a7c02)
+![3](https://github.com/rajatsinha1710/Gesture-Controlled-Robotics-Arm/assets/82875391/5f1a3dfa-1a46-41d6-a7a8-8a4252f2608c)
